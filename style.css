@@ -46,6 +46,12 @@ html{
     align-items: center;
 }
 
+.flex-start{
+    display:flex;
+    justify-content: start;
+    align-items: center;
+}
+
 #socialid{
     gap:20px;
 }
@@ -97,7 +103,6 @@ html{
 }
 
 #about-me>p{
-    padding-left:10%;
     padding-right:24%;
 }
 
